@@ -1,4 +1,6 @@
-#include <stdio.h>
+#include<stdio.h>
 int main(){
-    printf("Hello,World");
+    int num = 13;
+    printf("Значення змінної: %d\n", num);
 }
+
