@@ -57,5 +57,5 @@ int main() {
         printf("Student status: %s\n", users[i].isStudent ? "Yes" : "No");
     }
 
-    return 0;
+
 }
